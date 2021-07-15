@@ -1,104 +1,30 @@
-<!--Headings-->
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-<!-- Emphasis -->
-
-*This text is italic.* 
-
-_Underscore Also Italicizes_
-
-**This text is bold** 
-
-__This text is STRONG__ 
-
-<!-- Strikethrough -->
-
-~~This text~~ is strikethrough 
-
-<!-- horizontal rule -->
-
+# Quick Definition Lookup
 ---
-___
+Using the free API from [Free Dictionary API](https://dictionaryapi.dev/), I've created a simple and effective definition lookup app. 
 
-<!-- escaping characters-->
+## Why?
+---
 
-\*This Text requires backslashes \* to display the asterisk. 
+There are a few things that annoyed me when using dictionary websites.
 
-<!-- links-->
-[Google](http://www.google.com)
+1. It provides a plethora of information. While synonyms , pronounciation and examples are appreciated, usually all I need is a simple definition. I'm not an English major. I'm a simple man with simple needs.
+1. If I lookup another search result, I'm pushed onto another page. I don't like being tossed around.
+1. If I want to see the previous search results, I either have to navigate through my browser history manually or hit the back button until I find what I'm looking for. I'm very lazy.
 
-[Google](http://www.google.com "This is the title popup")
+This app solves the three issues above. This is by no means a replacement for any dictionary book or website. Its just meant to make my life (and hopefully yours) easier when searching for definitions and nothing more.
 
-<!-- Unordered List-->
+**This was also my first app built with an API. Yay.**
 
-* Item 1
-* Item 2
-* Item 3
-    * Nested Item 1
-    * Nested Item 2
-    * Nested Item 3
-        * Nested Nested Item 
+## Built With
+---
+This app was built with plain old HTML, CSS, and vanilla Javascript.
 
-<!-- Ordered List-->
+## To Do
+---
+* [ ] Add a button that clears the search results
+* [ ] Add multi-language functionality
 
-1. Item 1
-1. Item 2
-1. Item 3
-
-<!-- inline codeblock -->
-
-\` backticks required for Code Block \` 
-
-`<p>This is a paragraph</p>`
-
-
-
-<!-- images -->
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
-
-
-
-<!-- GITHUB MARKDOWN --> 
-
-<!-- Code Blocks -->
-
-```BASH
-    npm install 
-    npm start
-    hello world!
-```
-
-```javascript
-    function add(inta, intb){
-        return inta + intb;
-    }
-```
-
-```c++
-    int a = 5;
-    int b = 10;
-    std::cout << a + b << std::endl;
-```
-
-<!-- Tables -->
-
-| Name      | Email              |
-| --------- | ------------------ |
-| John Doe  | johndoe@gmail.com  |
-| Jane Smith | WewLad@gmail.com |
-
-<!-- Task Lists --> 
-
-* [x] Task 1
-* [x] Task 2
-* [ ] Task 3
+## Contact
+---
+[Sanobelk](https://github.com/Sanobelk)
+[Github Repo](https://github.com/Sanobelk/dictionary_lookup)
