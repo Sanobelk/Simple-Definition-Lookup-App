@@ -7,7 +7,7 @@ Using the free API from [Free Dictionary API](https://dictionaryapi.dev/), I've 
 Using [Free Dictionary API](https://dictionaryapi.dev/), I've created a simple and effective app that displays word definitions and nothing more.
 >>>>>>> 03c5781f17185486444457b533948b0e5090214d
 
-![App Image](/image.png)
+![App Image](image.png)
 
 ## Why?
 
