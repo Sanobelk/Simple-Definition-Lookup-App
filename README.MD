@@ -11,7 +11,6 @@ Using [Free Dictionary API](https://dictionaryapi.dev/), I've created a simple a
 
 ## Why?
 
-
 There are a few things that annoyed me when using online dictionaries.
 
 1. They provide a plethora of information. While synonyms, pronounciation and examples are appreciated, usually all I need is a simple definition. I'm not an English major. I'm a simple man with simple needs.
@@ -27,7 +26,6 @@ And because I'm lazy in that regard, I've created this app to solve my three iss
 This app was built with plain old HTML, CSS, and vanilla Javascript.
 
 ## To Do
-=======
 
 * HTML
 * CSS
@@ -35,14 +33,10 @@ This app was built with plain old HTML, CSS, and vanilla Javascript.
 
 ## To Do
 
-
-* [ ] Add a button that clears the search results
+* [x] Add a button that clears the search results
 * [ ] Add multi-language functionality
 
 ## Contact
-
-=======
-
 
 [Sanobelk](https://github.com/Sanobelk)
 
