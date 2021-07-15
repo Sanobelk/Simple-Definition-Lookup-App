@@ -1,11 +1,7 @@
 
 # Quick Definition Lookup
+
 Using the free API from [Free Dictionary API](https://dictionaryapi.dev/), I've created a simple and effective definition lookup app. 
-=======
-# Quick & Simple Definition Lookup
-
-Using [Free Dictionary API](https://dictionaryapi.dev/), I've created a simple and effective app that displays word definitions and nothing more.
-
 
 ![App Image](image.png)
 
