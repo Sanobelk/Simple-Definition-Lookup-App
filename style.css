@@ -1,6 +1,7 @@
 
     #html, body{
         overflow-y:hidden;
+        font-family:arial;
     }
 
     #container{
@@ -13,16 +14,17 @@
 
     #list{
         list-style-type:none;
-        width:90vw;
-        margin-left:-50px;
+        margin-left:-20px;
     }
     
     li{
         font-size:16pt;
-        width:90vw;
+        width:80vw;
         margin-top:20px;
         padding:10px;
         padding-left:30px;
+        background-color:white;
+        border-radius:25px;
     }
 
     #submission_box{
@@ -36,7 +38,7 @@
         padding:10px;
     }
 
-    #userSubmission, #submit{
+    #userSubmission, .bar_button{
         margin:auto;
         padding:10px;
     }

@@ -1,9 +1,9 @@
 # Quick Definition Lookup
----
 Using the free API from [Free Dictionary API](https://dictionaryapi.dev/), I've created a simple and effective definition lookup app. 
 
+![App Image](/image.png)
+
 ## Why?
----
 
 There are a few things that annoyed me when using dictionary websites.
 
@@ -16,15 +16,12 @@ This app solves the three issues above. This is by no means a replacement for an
 **This was also my first app built with an API. Yay.**
 
 ## Built With
----
 This app was built with plain old HTML, CSS, and vanilla Javascript.
 
 ## To Do
----
 * [ ] Add a button that clears the search results
 * [ ] Add multi-language functionality
 
 ## Contact
----
 [Sanobelk](https://github.com/Sanobelk)
 [Github Repo](https://github.com/Sanobelk/dictionary_lookup)

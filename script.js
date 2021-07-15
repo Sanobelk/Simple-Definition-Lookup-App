@@ -2,6 +2,7 @@
 
 const userSubmission = document.getElementById('userSubmission');
 const submit = document.getElementById('submit');
+const clear = document.getElementById('clear');
 
 
 userSubmission.addEventListener('keyup',function(event){
@@ -33,4 +34,11 @@ submit.addEventListener('click',async function(){
         addEntry(fetchWord, fetchDefinition);
         let container = document.getElementById('container');
         container.scrollTop = container.scrollHeight;
+});
+
+clear.addEventListener('click',function(){
+    let li_elems = document.querySelectorAll('li');
+    for(let li of li_elems){
+        li.remove();
+    }
 });
