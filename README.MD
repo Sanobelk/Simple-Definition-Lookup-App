@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 # Quick Definition Lookup
 Using the free API from [Free Dictionary API](https://dictionaryapi.dev/), I've created a simple and effective definition lookup app. 
 =======
 # Quick & Simple Definition Lookup
 
 Using [Free Dictionary API](https://dictionaryapi.dev/), I've created a simple and effective app that displays word definitions and nothing more.
->>>>>>> 03c5781f17185486444457b533948b0e5090214d
+
 
 ![App Image](image.png)
 
@@ -23,7 +23,7 @@ And because I'm lazy in that regard, I've created this app to solve my three iss
 **This was also my first time using an API. Yay.**
 
 ## Built With
-<<<<<<< HEAD
+
 This app was built with plain old HTML, CSS, and vanilla Javascript.
 
 ## To Do
@@ -35,15 +35,15 @@ This app was built with plain old HTML, CSS, and vanilla Javascript.
 
 ## To Do
 
->>>>>>> 03c5781f17185486444457b533948b0e5090214d
+
 * [ ] Add a button that clears the search results
 * [ ] Add multi-language functionality
 
 ## Contact
-<<<<<<< HEAD
+
 =======
 
->>>>>>> 03c5781f17185486444457b533948b0e5090214d
+
 [Sanobelk](https://github.com/Sanobelk)
 
 [Github Repo](https://github.com/Sanobelk/dictionary_lookup)
