@@ -19,10 +19,6 @@ And because I'm lazy in that regard, I've created this app to solve my three iss
 
 ## Built With
 
-This app was built with plain old HTML, CSS, and vanilla Javascript.
-
-## To Do
-
 * HTML
 * CSS
 * Javascript
