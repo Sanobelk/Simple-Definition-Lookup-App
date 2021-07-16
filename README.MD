@@ -31,5 +31,3 @@ And because I'm lazy in that regard, I've created this app to solve my three iss
 ## Contact
 
 [Sanobelk](https://github.com/Sanobelk)
-
-[Github Repo](https://github.com/Sanobelk/dictionary_lookup)
