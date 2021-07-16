@@ -3,7 +3,7 @@
 
 Using the free API from [Free Dictionary API](https://dictionaryapi.dev/), I've created a simple and effective definition lookup app. 
 
-![App Image](image.png)
+![App Image](image.PNG)
 
 ## Why?
 
